@@ -1,9 +1,9 @@
 {
   "name": "cn.etetet.move",
   "displayName": "ET.Move",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "unity": "2022.3",
-  "description": "et move",
+  "description": "mmo类型的移动组件",
   "author": {
     "name": "tanghai",
     "url": "https://github.com/egametang/ET"
@@ -14,7 +14,7 @@
   },
   "relatedPackages": {},
   "dependencies": {
-    "cn.etetet.unit": "0.0.1"
+    "cn.etetet.unit": "0.0.3"
   },
   "publishConfig": 
   { 
